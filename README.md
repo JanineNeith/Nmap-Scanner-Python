@@ -1,5 +1,6 @@
 # Nmap-Scanner-Python
-This is a Nmap Scanner in Python
+# This is a Nmap Scanner in Python
+
 The target IP address is first requested from the user in this revised version utilizing the input() function. The target ip variable holds this value.
 
 The nmap is then initialized after that.
